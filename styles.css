@@ -1,0 +1,12 @@
+*{
+font-family: 'Roboto', sans-serif;
+box-sizing:border-box;
+
+}
+header div.photo_1{
+  margin:0 auto;
+}
+header div.photo_1 img {
+  width:100px;
+  height:100px;
+}
